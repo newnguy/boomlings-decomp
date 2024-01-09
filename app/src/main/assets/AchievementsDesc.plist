@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boomlings.ach.4bandits</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Detonated 3 bandits in a single chain</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.4bandits</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>36</integer>
+		<key>title</key>
+		<string>King Of Thieves</string>
+		<key>unachievedDescription</key>
+		<string>Detonate 3 bandits in a single chain</string>
+	</dict>
+	<key>boomlings.ach.bombs.1</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Detonated 5 bombs in a single turn.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.bombs.1</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>45</integer>
+		<key>title</key>
+		<string>Power Hungry</string>
+		<key>unachievedDescription</key>
+		<string>Detonate 5 bombs in a single turn.</string>
+	</dict>
+	<key>boomlings.ach.bombs.2</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Detonated 10 bombs in a single turn.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.bombs.2</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>46</integer>
+		<key>title</key>
+		<string>Power Addict</string>
+		<key>unachievedDescription</key>
+		<string>Detonate 10 bombs in a single turn.</string>
+	</dict>
+	<key>boomlings.ach.chain.3</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Detonated a triple-combo chain</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.chain.3</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>4</integer>
+		<key>title</key>
+		<string>Chain Novice</string>
+		<key>unachievedDescription</key>
+		<string>Detonate a triple-combo chain</string>
+	</dict>
+	<key>boomlings.ach.chain.5</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Detonated a five-combo chain</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.chain.5</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>5</integer>
+		<key>title</key>
+		<string>Chain Twister</string>
+		<key>unachievedDescription</key>
+		<string>Detonate a five-combo chain</string>
+	</dict>
+	<key>boomlings.ach.chain.7</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Detonated a seven-combo chain</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.chain.7</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>6</integer>
+		<key>title</key>
+		<string>Chain Mastermind</string>
+		<key>unachievedDescription</key>
+		<string>Detonate a seven-combo chain</string>
+	</dict>
+	<key>boomlings.ach.changer.A</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Destroyed 50 Boom Bandits</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.changer.A</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>7</integer>
+		<key>title</key>
+		<string>Bandit Novice</string>
+		<key>unachievedDescription</key>
+		<string>Destroy 50 Boom Bandits</string>
+	</dict>
+	<key>boomlings.ach.changer.B</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Destroyed 100 Boom Bandits</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.changer.B</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>8</integer>
+		<key>title</key>
+		<string>Bandit Expert</string>
+		<key>unachievedDescription</key>
+		<string>Destroy 100 Boom Bandits</string>
+	</dict>
+	<key>boomlings.ach.changer.C</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Destroyed 200 Boom Bandits</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.changer.C</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>9</integer>
+		<key>title</key>
+		<string>Bandit Master</string>
+		<key>unachievedDescription</key>
+		<string>Destroy 200 Boom Bandits</string>
+	</dict>
+	<key>boomlings.ach.cheatDeath</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Used &quot;Level Skip&quot; to avoid dying from a Skull.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.cheatDeath</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>58</integer>
+		<key>title</key>
+		<string>Cheat Death</string>
+		<key>unachievedDescription</key>
+		<string>Use &quot;Level Skip&quot; to avoid dying from a Skull.</string>
+	</dict>
+	<key>boomlings.ach.colors.2</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Detonated a chain-combo containing 4 different colors.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.colors.2</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>52</integer>
+		<key>title</key>
+		<string>Oh, Colors!</string>
+		<key>unachievedDescription</key>
+		<string>Detonate a chain-combo containing 4 different colors.</string>
+	</dict>
+	<key>boomlings.ach.colors.3</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Detonated a chain-combo containing 6 different colors.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.colors.3</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>53</integer>
+		<key>title</key>
+		<string>RainBoom</string>
+		<key>unachievedDescription</key>
+		<string>Detonate a chain-combo containing 6 different colors.</string>
+	</dict>
+	<key>boomlings.ach.combocat</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached level 5 by only doing combo chains.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.combocat</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>57</integer>
+		<key>title</key>
+		<string>Combo Cat</string>
+		<key>unachievedDescription</key>
+		<string>Reach level 5 by only doing combo chains.</string>
+	</dict>
+	<key>boomlings.ach.firstMegaBlob</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Popped a Mega Blob.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.firstMegaBlob</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>48</integer>
+		<key>title</key>
+		<string>FOS BOM CHA!</string>
+		<key>unachievedDescription</key>
+		<string>Pop a Mega Blob.</string>
+	</dict>
+	<key>boomlings.ach.firstMegaBomb</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Detonated a Mega Bomb.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.firstMegaBomb</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>47</integer>
+		<key>title</key>
+		<string>Use the Force</string>
+		<key>unachievedDescription</key>
+		<string>Detonate a Mega Bomb.</string>
+	</dict>
+	<key>boomlings.ach.foreveralone</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Completed a level with only one Boomling left on the grid.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.foreveralone</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>56</integer>
+		<key>title</key>
+		<string>Forever Alone</string>
+		<key>unachievedDescription</key>
+		<string>Complete a level with only one Boomling left on the grid.</string>
+	</dict>
+	<key>boomlings.ach.gold.1</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Collected 1,000 Gold Coins.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.gold.1</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>49</integer>
+		<key>title</key>
+		<string>I Like Gold</string>
+		<key>unachievedDescription</key>
+		<string>Collect 1,000 Gold Coins.</string>
+	</dict>
+	<key>boomlings.ach.gold.2</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Collected 5,000 Gold Coins.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.gold.2</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>50</integer>
+		<key>title</key>
+		<string>I Really Like Gold</string>
+		<key>unachievedDescription</key>
+		<string>Collect 5,000 Gold Coins.</string>
+	</dict>
+	<key>boomlings.ach.gold.3</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Collected 10,000 Gold Coins.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.gold.3</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>51</integer>
+		<key>title</key>
+		<string>MUAHAHA GOLD</string>
+		<key>unachievedDescription</key>
+		<string>Collect 10,000 Gold Coins.</string>
+	</dict>
+	<key>boomlings.ach.icon</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Collected 50 Icons</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.icon</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>63</integer>
+		<key>title</key>
+		<string>The Master of Disguise</string>
+		<key>unachievedDescription</key>
+		<string>Collect 50 Icons</string>
+	</dict>
+	<key>boomlings.ach.icon.1</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Collected 20 icons</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.icon.1</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>59</integer>
+		<key>title</key>
+		<string>Icon Novice</string>
+		<key>unachievedDescription</key>
+		<string>Collect 20 icons</string>
+	</dict>
+	<key>boomlings.ach.icon.2</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Collected 30 icons</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.icon.2</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>60</integer>
+		<key>title</key>
+		<string>Icon Expert</string>
+		<key>unachievedDescription</key>
+		<string>Collect 30 icons</string>
+	</dict>
+	<key>boomlings.ach.icon.3</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Collected 40 icons</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.icon.3</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>61</integer>
+		<key>title</key>
+		<string>Icon Master</string>
+		<key>unachievedDescription</key>
+		<string>Collect 40 icons</string>
+	</dict>
+	<key>boomlings.ach.icon.A</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Purchased an Icon</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.icon.A</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>30</integer>
+		<key>title</key>
+		<string>Boomling in Disguise</string>
+		<key>unachievedDescription</key>
+		<string>Purchase an Icon</string>
+	</dict>
+	<key>boomlings.ach.level.10</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached level 10</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.level.10</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>Expert Puzzler</string>
+		<key>unachievedDescription</key>
+		<string>Reach level 10</string>
+	</dict>
+	<key>boomlings.ach.level.15</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached level 15</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.level.15</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>Master Puzzler</string>
+		<key>unachievedDescription</key>
+		<string>Reach level 15</string>
+	</dict>
+	<key>boomlings.ach.level.20</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached level 20</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.level.20</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>Legendary Puzzler</string>
+		<key>unachievedDescription</key>
+		<string>Reach level 20</string>
+	</dict>
+	<key>boomlings.ach.level.5</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached level 5</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.level.5</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>0</integer>
+		<key>title</key>
+		<string>Apprentice Puzzler</string>
+		<key>unachievedDescription</key>
+		<string>Reach level 5</string>
+	</dict>
+	<key>boomlings.ach.level1Speed</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Completed level 1 in 8 moves or less</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.level1Speed</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>35</integer>
+		<key>title</key>
+		<string>Speedling</string>
+		<key>unachievedDescription</key>
+		<string>Complete level 1 in 8 moves or less</string>
+	</dict>
+	<key>boomlings.ach.megablob.A</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Pop 10 Mega Blobs</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.megablob.A</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>10</integer>
+		<key>title</key>
+		<string>Mega Blob Novice</string>
+		<key>unachievedDescription</key>
+		<string>Pop 10 Mega Blobs</string>
+	</dict>
+	<key>boomlings.ach.megablob.B</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Pop 50 Mega Blobs</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.megablob.B</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>11</integer>
+		<key>title</key>
+		<string>Mega Blob Expert</string>
+		<key>unachievedDescription</key>
+		<string>Pop 50 Mega Blobs</string>
+	</dict>
+	<key>boomlings.ach.megablob.C</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Pop 100 Mega Blobs</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.megablob.C</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>12</integer>
+		<key>title</key>
+		<string>Mega Blob Master</string>
+		<key>unachievedDescription</key>
+		<string>Pop 100 Mega Blobs</string>
+	</dict>
+	<key>boomlings.ach.megabomb.A</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Detonated 10 Mega Bombs</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.megabomb.A</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>13</integer>
+		<key>title</key>
+		<string>Mega Bomb Novice</string>
+		<key>unachievedDescription</key>
+		<string>Detonate 10 Mega Bombs</string>
+	</dict>
+	<key>boomlings.ach.megabomb.B</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Detonated 50 Mega Bombs</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.megabomb.B</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>14</integer>
+		<key>title</key>
+		<string>Mega Bomb Expert</string>
+		<key>unachievedDescription</key>
+		<string>Detonate 50 Mega Bombs</string>
+	</dict>
+	<key>boomlings.ach.megabomb.C</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Detonated 100 Mega Bombs</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.megabomb.C</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>15</integer>
+		<key>title</key>
+		<string>Mega Bomb Master</string>
+		<key>unachievedDescription</key>
+		<string>Detonate 100 Mega Bombs</string>
+	</dict>
+	<key>boomlings.ach.mystery.A</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Activate 10 Mystery Boxes</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.mystery.A</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>16</integer>
+		<key>title</key>
+		<string>Mystery Novice</string>
+		<key>unachievedDescription</key>
+		<string>Activate 10 Mystery Boxes</string>
+	</dict>
+	<key>boomlings.ach.mystery.B</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Activated 50 Mystery Boxes</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.mystery.B</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>17</integer>
+		<key>title</key>
+		<string>Mystery Expert</string>
+		<key>unachievedDescription</key>
+		<string>Activate 50 Mystery Boxes</string>
+	</dict>
+	<key>boomlings.ach.mystery.C</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Activated 100 Mystery Boxes</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.mystery.C</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>18</integer>
+		<key>title</key>
+		<string>Mystery Master</string>
+		<key>unachievedDescription</key>
+		<string>Activate 100 Mystery Boxes</string>
+	</dict>
+	<key>boomlings.ach.nodes.A</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Linked 10 objects in a single chain</string>
+		<key>hidden</key>
+		<true/>
+		<key>identifier</key>
+		<string>boomlings.ach.nodes.A</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>25</integer>
+		<key>title</key>
+		<string>Boom Novice</string>
+		<key>unachievedDescription</key>
+		<string>Link 10 objects in a single chain</string>
+	</dict>
+	<key>boomlings.ach.nodes.B</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Linked 20 objects in a single chain</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.nodes.B</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>26</integer>
+		<key>title</key>
+		<string>Boom Expert</string>
+		<key>unachievedDescription</key>
+		<string>Link 20 objects in a single chain</string>
+	</dict>
+	<key>boomlings.ach.nodes.C</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Link 30 objects in a single chain</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.nodes.C</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>27</integer>
+		<key>title</key>
+		<string>Boom Master</string>
+		<key>unachievedDescription</key>
+		<string>Link 30 objects in a single chain</string>
+	</dict>
+	<key>boomlings.ach.pacifist</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached level 5 without detonating any bombs.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.pacifist</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>54</integer>
+		<key>title</key>
+		<string>The Pacifist</string>
+		<key>unachievedDescription</key>
+		<string>Reach level 5 without detonating any bombs.</string>
+	</dict>
+	<key>boomlings.ach.pow.A</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Purchased a Powerup</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.pow.A</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>32</integer>
+		<key>title</key>
+		<string>Boost Novice</string>
+		<key>unachievedDescription</key>
+		<string>Purchase a Powerup</string>
+	</dict>
+	<key>boomlings.ach.pow.B</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Purchased rank 3 of a Powerup</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.pow.B</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>33</integer>
+		<key>title</key>
+		<string>Boost Expert</string>
+		<key>unachievedDescription</key>
+		<string>Purchase rank 3 of a Powerup</string>
+	</dict>
+	<key>boomlings.ach.pow.C</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Purchased all Powerups and ranks... EPIC :o</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.pow.C</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>34</integer>
+		<key>title</key>
+		<string>Boost Master</string>
+		<key>unachievedDescription</key>
+		<string>Purchase all Powerups and ranks</string>
+	</dict>
+	<key>boomlings.ach.rank.1</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached rank 5</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.rank.1</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>37</integer>
+		<key>title</key>
+		<string>Boomite</string>
+		<key>unachievedDescription</key>
+		<string>Reach rank 5</string>
+	</dict>
+	<key>boomlings.ach.rank.2</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached rank 10</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.rank.2</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>38</integer>
+		<key>title</key>
+		<string>Boomling</string>
+		<key>unachievedDescription</key>
+		<string>Reach rank 10</string>
+	</dict>
+	<key>boomlings.ach.rank.3</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached rank 15</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.rank.3</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>39</integer>
+		<key>title</key>
+		<string>Boomlingus</string>
+		<key>unachievedDescription</key>
+		<string>Reach rank 15</string>
+	</dict>
+	<key>boomlings.ach.rank.4</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached rank 20</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.rank.4</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>40</integer>
+		<key>title</key>
+		<string>Boomiathan</string>
+		<key>unachievedDescription</key>
+		<string>Reach rank 20</string>
+	</dict>
+	<key>boomlings.ach.skull.A</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Destroyed 100 Skulls</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.skull.A</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>19</integer>
+		<key>title</key>
+		<string>Skull Novice</string>
+		<key>unachievedDescription</key>
+		<string>Destroy 100 Skulls</string>
+	</dict>
+	<key>boomlings.ach.skull.B</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Destroyed 500 Skulls</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.skull.B</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>20</integer>
+		<key>title</key>
+		<string>Skull Expert</string>
+		<key>unachievedDescription</key>
+		<string>Destroy 500 Skulls</string>
+	</dict>
+	<key>boomlings.ach.skull.C</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Destroyed 1000 Skulls</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.skull.C</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>21</integer>
+		<key>title</key>
+		<string>Skull Master</string>
+		<key>unachievedDescription</key>
+		<string>Destroy 1000 Skulls</string>
+	</dict>
+	<key>boomlings.ach.stone.A</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Destroyed 50 Stones</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.stone.A</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>22</integer>
+		<key>title</key>
+		<string>Stone Novice</string>
+		<key>unachievedDescription</key>
+		<string>Destroy 50 Stones</string>
+	</dict>
+	<key>boomlings.ach.stone.B</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Destroyed 200 Stones</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.stone.B</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>23</integer>
+		<key>title</key>
+		<string>Stone Expert</string>
+		<key>unachievedDescription</key>
+		<string>Destroy 200 Stones</string>
+	</dict>
+	<key>boomlings.ach.stone.C</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Destroyed 500 Stones</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.stone.C</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>24</integer>
+		<key>title</key>
+		<string>Stone Master</string>
+		<key>unachievedDescription</key>
+		<string>Destroy 500 Stones</string>
+	</dict>
+	<key>boomlings.ach.turtle.1</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached level 10 in under 20min.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.turtle.1</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>41</integer>
+		<key>title</key>
+		<string>Sleepy Turtle</string>
+		<key>unachievedDescription</key>
+		<string>Reach level 10 in under 20min without using any shortcuts.</string>
+	</dict>
+	<key>boomlings.ach.turtle.2</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached level 10 in under 15min.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.turtle.2</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>42</integer>
+		<key>title</key>
+		<string>Energetic Turtle</string>
+		<key>unachievedDescription</key>
+		<string>Reach level 10 in under 15min without using any shortcuts.</string>
+	</dict>
+	<key>boomlings.ach.turtle.3</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached level 10 in under 10min.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.turtle.3</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>43</integer>
+		<key>title</key>
+		<string>Steam Powered Turtle</string>
+		<key>unachievedDescription</key>
+		<string>Reach level 10 in under 10min without using any shortcuts.</string>
+	</dict>
+	<key>boomlings.ach.turtle.4</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Reached level 10 in under 8min.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.turtle.4</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>44</integer>
+		<key>title</key>
+		<string>Rocket Fueled Turtle</string>
+		<key>unachievedDescription</key>
+		<string>Reach level 10 in under 8min without using any shortcuts.</string>
+	</dict>
+	<key>boomlings.ach.yuno</key>
+	<dict>
+		<key>achievedDescription</key>
+		<string>Played 3 games without beating your highscore.</string>
+		<key>hidden</key>
+		<false/>
+		<key>identifier</key>
+		<string>boomlings.ach.yuno</string>
+		<key>maxiumPoints</key>
+		<integer>10</integer>
+		<key>order</key>
+		<integer>55</integer>
+		<key>title</key>
+		<string>Y U NO SCORE HIGHER?!</string>
+		<key>unachievedDescription</key>
+		<string>Play 3 games without beating your highscore.</string>
+	</dict>
+</dict>
+</plist>
