@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContainer</key>
+	<dict>
+		<key>MegaColor_xyz_Idle01_001.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, 0}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.15, 15.3}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.45, 17.7}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.25, 17.55}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.65, 19}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_002.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -0.05}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00443, 0.99765}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.25, 15.2}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.55, 17.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.4, 17.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.8, 18.95}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_003.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -0.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.01862, 0.99014}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.5, 14.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.8, 17.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.85, 17.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.2, 18.8}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_004.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -0.55}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.04205, 0.97774}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.95, 14.45}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.2, 16.7}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-12.6, 17.2}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.95, 18.55}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_005.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -0.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.06958, 0.96317}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.45, 13.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.7, 16.05}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.55, 16.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{12.9, 18.2}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_006.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -1.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.09300, 0.95076}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.9, 13.45}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.1, 15.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-14.55, 16.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{13.85, 17.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_007.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -1.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.10721, 0.94325}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.15, 13.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.35, 15.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-15.3, 16.45}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{14.6, 17.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_008.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -1.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.11163, 0.94090}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.25, 13.05}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.45, 15.05}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-15.75, 16.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{15, 17.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_009.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -1.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.10738, 0.94316}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.15, 13.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.35, 15.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-15.9, 16.3}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{15.15, 17.45}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_010.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -1.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.09375, 0.95036}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.9, 13.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.15, 15.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-15.65, 16.35}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{14.9, 17.55}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_011.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -0.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.07124, 0.96228}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10.5, 13.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.75, 16}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-14.9, 16.55}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{14.15, 17.8}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_012.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -0.55}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.04482, 0.97626}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-10, 14.4}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.25, 16.65}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-13.7, 16.9}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{13, 18.2}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_013.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -0.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.02231, 0.98816}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.6, 14.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.85, 17.15}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-12.5, 17.25}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.85, 18.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_014.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -0.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00868, 0.99538}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.35, 15.1}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.65, 17.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.75, 17.45}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{11.1, 18.85}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+		<key>MegaColor_xyz_Idle01_015.png</key>
+		<dict>
+			<key>sprite_0</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{0, -0.05}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00443, 0.99763}</string>
+				<key>tag</key>
+				<string>0</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_bg_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>0</string>
+			</dict>
+			<key>sprite_1</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-9.25, 15.2}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>1</string>
+				<key>texture</key>
+				<string>MegaColor_xyz_leye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>1</string>
+			</dict>
+			<key>sprite_2</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{9.55, 17.6}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>2</string>
+				<key>texture</key>
+				<string>MegaColor_reye_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>2</string>
+			</dict>
+			<key>sprite_3</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{-11.5, 17.5}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>3</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>3</string>
+			</dict>
+			<key>sprite_4</key>
+			<dict>
+				<key>flipped</key>
+				<string>{0, 0}</string>
+				<key>position</key>
+				<string>{10.85, 18.95}</string>
+				<key>rotation</key>
+				<string>0</string>
+				<key>scale</key>
+				<string>{1.00000, 1.00000}</string>
+				<key>tag</key>
+				<string>4</string>
+				<key>texture</key>
+				<string>MegaColor_Pupil_001.png</string>
+				<key>usesCustomTag</key>
+				<string>0</string>
+				<key>zValue</key>
+				<string>4</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>copies</key>
+	<string>b o p g y r</string>
+	<key>usedTextures</key>
+	<dict>
+		<key>texture_0</key>
+		<dict>
+			<key>tag</key>
+			<string>0</string>
+			<key>texture</key>
+			<string>MegaColor_xyz_bg_001.png</string>
+		</dict>
+		<key>texture_1</key>
+		<dict>
+			<key>tag</key>
+			<string>1</string>
+			<key>texture</key>
+			<string>MegaColor_xyz_leye_001.png</string>
+		</dict>
+		<key>texture_2</key>
+		<dict>
+			<key>tag</key>
+			<string>2</string>
+			<key>texture</key>
+			<string>MegaColor_reye_001.png</string>
+		</dict>
+		<key>texture_3</key>
+		<dict>
+			<key>tag</key>
+			<string>3</string>
+			<key>texture</key>
+			<string>MegaColor_Pupil_001.png</string>
+		</dict>
+		<key>texture_4</key>
+		<dict>
+			<key>tag</key>
+			<string>4</string>
+			<key>texture</key>
+			<string>MegaColor_Pupil_001.png</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
