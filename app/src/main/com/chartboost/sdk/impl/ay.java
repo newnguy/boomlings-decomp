@@ -23,7 +23,7 @@ public class ay implements Serializable, Comparable {
     static {
         int i;
         int i2;
-        try {
+        try-with-resources {
             StringBuilder sb = new StringBuilder();
             Enumeration<NetworkInterface> networkInterfaces = NetworkInterface.getNetworkInterfaces();
             while (networkInterfaces.hasMoreElements()) {

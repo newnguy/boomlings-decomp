@@ -876,7 +876,7 @@ public final class ReaderBasedParser extends JsonParserBase {
         	at java.base/java.util.stream.Sink$ChainedReference.end(Unknown Source)
         */
 
-    protected final JsonToken _handleUnexpectedValue(int i) {
+    final JsonToken _handleUnexpectedValue(int i) {
         switch (i) {
             case 39:
                 if (isEnabled(JsonParser.Feature.ALLOW_SINGLE_QUOTES)) {
